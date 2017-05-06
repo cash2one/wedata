@@ -1,0 +1,7 @@
+flask
+flask-cors
+flask-sqlalchemy
+marshmallow
+gunicorn
+gevent
+pymysql
